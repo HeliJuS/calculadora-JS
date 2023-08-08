@@ -1,12 +1,13 @@
 <h1 align="center"> Calculadora JS </h1> <br>
-<p align="center">
-    <img alt="Calculadora Simples" title="calcJS" src="![image](https://github.com/HeliJuS/calculadora-JS/assets/103338394/e229f137-3043-4359-81ff-521f8f78fd90)" width="450">
-  </a>
-</p>
 
-<p align="center">
-  Caculadora simples capaz de realizar as quatro operações básicas da matemática. 
-</p>
+![Captura de tela 2023-08-08 162731](https://github.com/HeliJuS/calculadora-JS/assets/103338394/6b8781c6-3b93-4413-9cd7-2c9a92290167)
+
+<br>
+<br>
+<br>
+  
+## Introdução
+Caculadora simples capaz de realizar as quatro operações básicas da matemática. 
 
 ## Funcionalidades
 
