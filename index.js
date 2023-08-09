@@ -3,9 +3,6 @@ const root = document.querySelector(":root")
 const input = document.getElementById("input")
 const allowedKeys = ["/", "*", "-", "+", "9", "8", "7", "6", "5", "4", "3", "2", "1", "0", ".", " "] 
 
-function open(){
-  sessionStorage.name=document.getElementById("user").value
-}
 
 document.querySelectorAll(".charKey").forEach(function (charKeyBtn) {
   charKeyBtn.addEventListener("click", function () {
